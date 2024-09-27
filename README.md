@@ -11,7 +11,7 @@ This is a mobile application built using **React Native** that allows users to b
 - **Mock API Integration**: The app uses a mock API to fetch event data, allowing for realistic interaction without the need for a backend setup.
 
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**Expo**](https://expo.dev/) project, bootstrapped using [`eas-cli`](https://github.com/expo/eas-cli).
 
 # Getting Started
 
