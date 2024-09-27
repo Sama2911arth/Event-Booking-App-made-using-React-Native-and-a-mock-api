@@ -38,13 +38,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/Event-Booking-App-made-using-React-Native-and-a-mock-api.git
+
+git clone https://github.com/Sama2911arth/Event-Booking-App-made-using-React-Native-and-a-mock-api.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd Event-Booking-App-made-using-React-Native-and-a-mock-api
 Install dependencies:
 
@@ -53,8 +51,8 @@ Copy code
 npm install
 Start the Expo project:
 
-bash
-Copy code
+
+
 expo start
 This will open the Expo Developer Tools in your browser, allowing you to run the app on an emulator or a physical device.
 
@@ -75,18 +73,12 @@ Copy code
 expo run:ios
 Note: You will need a macOS system to run the iOS app on an iOS simulator.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Contributions
 Contributions are welcome! If you have suggestions or issues, feel free to create a new issue or submit a pull request.
 
-markdown
-Copy code
 
-### What to Replace:
 
-- **APK Link**: Replace `#` in `[Download APK](#)` with the actual link to your APK file if it's hosted on a file-sharing platform.
-- **Images**: Replace the image paths (e.g., `./assets/home_screen.png`) with actual paths to screenshots or demo images of your app in the `assets` folder.
 
-This **README** is now ready for your GitHub repository! It includes all the necessary instructio
+
