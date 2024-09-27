@@ -1,4 +1,15 @@
 # Event-Booking-App-made-using-React-Native-and-a-mock-api
+
+This is a mobile application built using React Native that allows users to browse, search, and book events easily. The app interacts with a mock API to simulate real-world functionality, making it an excellent tool for understanding event booking systems.
+
+Features
+User-Friendly Interface: A clean and intuitive UI that allows users to navigate through upcoming events effortlessly.
+Event Listings: View a list of available events with essential details such as title, date, location, and images.
+Search Functionality: Easily find events by searching with keywords.
+Event Details: Click on any event to see detailed information and a "Book Now" button.
+Mock API Integration: The app uses a mock API to fetch event data, allowing for realistic interaction without the need for a backend setup.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
