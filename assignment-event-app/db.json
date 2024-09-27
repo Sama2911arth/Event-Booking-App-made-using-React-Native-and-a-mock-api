@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Rock Legends Concert",
+        "description": "Join us for a night of classic rock hits performed live by the greatest rock legends.",
+        "date": "2024-10-05",
+        "location": "Madison Square Garden, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/guitarist-1574084539D9b.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Jazz Under the Stars",
+        "description": "Experience the smooth sounds of jazz in an outdoor setting under the stars.",
+        "date": "2024-10-12",
+        "location": "Millennium Park, Chicago",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/saxophonist.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Tech Innovators Conference",
+        "description": "A conference for industry leaders discussing the future of technology.",
+        "date": "2024-11-02",
+        "location": "Moscone Center, San Francisco",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/audience-listening.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Photography Masterclass",
+        "description": "Learn advanced techniques in landscape and portrait photography from industry experts.",
+        "date": "2024-10-18",
+        "location": "Central Park, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/photographer-taking-a-picture-1607191676jC7.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Fitness Bootcamp",
+        "description": "A high-intensity outdoor workout session led by professional fitness trainers.",
+        "date": "2024-11-10",
+        "location": "Golden Gate Park, San Francisco",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/270000/velka/workout-outside.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Classical Music Evening",
+        "description": "An evening of soothing classical music performed by renowned musicians.",
+        "date": "2024-11-15",
+        "location": "Carnegie Hall, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/270000/velka/violinist.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Startup Pitch Day",
+        "description": "Aspiring entrepreneurs pitch their business ideas to venture capitalists.",
+        "date": "2024-11-22",
+        "location": "Silicon Valley, California",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/presentation-1598600168ST8.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Cooking for Beginners Workshop",
+        "description": "Learn to cook delicious meals in this hands-on beginner-friendly workshop.",
+        "date": "2024-10-22",
+        "location": "Culinary Institute, Chicago",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/cooking-1596162045vXb.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Art in the Park",
+        "description": "An outdoor art exhibition showcasing local artists and their work.",
+        "date": "2024-10-29",
+        "location": "Balboa Park, San Diego",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/art-painting-1596082027lEs.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Winter Wonderland Festival",
+        "description": "A festive winter celebration with ice skating, hot cocoa, and holiday markets.",
+        "date": "2024-12-05",
+        "location": "Bryant Park, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/290000/velka/ice-skating.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Indie Film Screening",
+        "description": "Watch the latest indie films followed by a Q&A session with directors.",
+        "date": "2024-11-05",
+        "location": "Sundance Film Festival, Utah",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/330000/velka/movie-clapper.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Comic-Con 2024",
+        "description": "The ultimate convention for fans of comics, TV shows, and pop culture.",
+        "date": "2024-07-19",
+        "location": "San Diego Convention Center",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/20000/velka/comic-books.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Coding Bootcamp",
+        "description": "A 3-day intensive coding bootcamp for aspiring software developers.",
+        "date": "2024-12-01",
+        "location": "Silicon Valley, California",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/20000/velka/laptop-and-code.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Yoga in the Park",
+        "description": "Start your day with a relaxing yoga session in nature.",
+        "date": "2024-11-01",
+        "location": "Prospect Park, Brooklyn",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/20000/velka/yoga-outdoors.jpg"
+    },
+    {
+        "id": 15,
+        "title": "TEDx Talks",
+        "description": "Inspiring talks from thought leaders and innovators from various fields.",
+        "date": "2024-12-10",
+        "location": "Lincoln Center, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/speaker-on-stage.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Marathon for a Cause",
+        "description": "Participate in a marathon and support a charitable cause.",
+        "date": "2024-11-20",
+        "location": "Central Park, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/marathon-runner.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Meditation and Mindfulness Workshop",
+        "description": "A peaceful retreat focusing on meditation techniques and mindfulness.",
+        "date": "2024-11-03",
+        "location": "Sedona, Arizona",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/220000/velka/meditation.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Stand-up Comedy Night",
+        "description": "Enjoy a night of laughter with some of the best stand-up comedians.",
+        "date": "2024-11-25",
+        "location": "Comedy Cellar, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/comedian-on-stage.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Digital Marketing Seminar",
+        "description": "Learn the latest trends and strategies in digital marketing.",
+        "date": "2024-12-07",
+        "location": "Online",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/marketing-strategy.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Food Truck Festival",
+        "description": "Sample dishes from some of the best food trucks in the city.",
+        "date": "2024-10-30",
+        "location": "Downtown Los Angeles",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/street-food-1602343402D2h.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Hip-Hop Dance Workshop",
+        "description": "Learn the fundamentals of hip-hop dance in this energetic workshop.",
+        "date": "2024-11-10",
+        "location": "Dance Studio, Miami",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/dancers.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Open Mic Poetry Night",
+        "description": "Express your thoughts or enjoy others' poetry at this open mic night.",
+        "date": "2024-11-12",
+        "location": "The Poetry Lounge, Los Angeles",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/microphone.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Fashion Forward Expo",
+        "description": "A runway event showcasing the latest trends in fashion.",
+        "date": "2024-12-02",
+        "location": "Fashion District, Paris",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/40000/velka/fashion-show.jpg"
+    },
+    {
+        "id": 24,
+        "title": "VR Gaming Expo",
+        "description": "Experience the future of gaming at this virtual reality expo.",
+        "date": "2024-11-28",
+        "location": "Las Vegas Convention Center",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/vr-gaming.jpg"
+    },
+    {
+        "id": 25,
+        "title": "International Food Fair",
+        "description": "Explore cuisines from around the world at this international food fair.",
+        "date": "2024-11-15",
+        "location": "Downtown Seattle",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/320000/velka/international-food.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Music Producers Meet-Up",
+        "description": "A networking event for aspiring and professional music producers.",
+        "date": "2024-12-05",
+        "location": "Hollywood, Los Angeles",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/music-production.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Guitar Masterclass",
+        "description": "A hands-on workshop with professional guitarists teaching advanced techniques.",
+        "date": "2024-12-12",
+        "location": "Austin, Texas",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/guitar-masterclass.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Holiday Crafts Workshop",
+        "description": "Create handmade holiday decorations at this fun and festive workshop.",
+        "date": "2024-12-18",
+        "location": "Community Center, Boston",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/velka/holiday-crafts.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Blockchain Conference 2024",
+        "description": "Learn about blockchain technology from industry leaders at this annual conference.",
+        "date": "2024-12-08",
+        "location": "Berlin, Germany",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/330000/velka/blockchain-conference.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Ballet Gala Night",
+        "description": "An evening of stunning ballet performances from world-renowned dancers.",
+        "date": "2024-12-20",
+        "location": "Lincoln Center, New York",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/330000/velka/ballet-performance.jpg"
+    }
+]
