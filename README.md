@@ -17,7 +17,7 @@ Here are some screenshots of the app in action:
 
 | Home Screen                                      | Event Details                                      | Booking Screen                                      |
 | ------------------------------------------------ | ------------------------------------------------- | --------------------------------------------------- |
-| ![Home Screen](Home.jpg)         | ![Event Details](Event Details.jpg)       | ![Booking Screen](Booking Screen.jpg)       |
+| ![Home Screen](assets/Home.jpg)         | ![Event Details](assets/EventDetails.jpg)       | ![Booking Screen](assets/BookingScreen.jpg)       |
 
 ## Download the APK
 
@@ -85,21 +85,6 @@ Start the server
 ```bash
   npm start
 ```
-
-
-## Screenshots
-
-![]()
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
 
 ## Documentation
 
